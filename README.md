@@ -1,4 +1,6 @@
 ## House Sales in King County, USA
+![House Sales](https://github.com/user-attachments/assets/42c84ef2-3efe-4e0b-a1bb-e914e0c8a20d)
+
 
 This repository contains the assignment solution for the Data Analysis with Python course on Coursera, offered by IBM. The analysis is centered around housing sales data from King County, USA, providing insights and predictions using Python-based tools and techniques.
 
